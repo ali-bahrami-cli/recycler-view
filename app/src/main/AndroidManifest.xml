@@ -22,10 +22,9 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".secondActivity"
-            android:exported="true">
-        </activity>
+<!--        <activity-->
+<!--            -->
+<!--        </activity>-->
     </application>
 
 </manifest>
