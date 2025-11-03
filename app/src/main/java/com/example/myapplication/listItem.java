@@ -72,4 +72,7 @@ public class listItem {
         return avatar;
     }
 
+    public String[] getCaption() {
+        return caption;
+    }
 }
